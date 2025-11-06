@@ -1,0 +1,29 @@
+Közös
+Komponensek Tervezése:
+
+   
+Létrehozni a Bootstrap Navigációs Sávot (Navbar).
+   Ennek tartalmaznia kell a linkeket a Főoldalra (index.html)
+   és a Projektek oldalra (projektek.html).
+   
+Létrehozni a Bootstrap Láblécet (Footer) (pl.
+   közösségi média ikonokkal, copyright szöveggel).
+   
+   
+   Főoldal Tartalma (index.html):
+
+
+   
+
+   Egy "Hero" szekció (bemutatkozás) létrehozása
+   (pl. egy Bootstrap container-fluid vagy jumbotron-szerű
+   elrendezés).
+   
+Egy "Kiemelt Projektek" szekció készítése a
+   Bootstrap Rácsrendszer (Grid) és Kártyák (Cards)
+   segítségével (pl. 3 kiemelt projekt kártyája).
+   
+Minden kártyán legyen egy gomb ("Részletek"),
+   ami még nem mutat sehova, de legyen egy fő gomb a
+   szekció alatt ("Összes projekt megtekintése"), amely a
+   projektek.html oldalra mutat.
